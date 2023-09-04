@@ -1,0 +1,41 @@
+body{
+    margin: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+    
+}
+section{
+    height: 500px;
+}
+.Name{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+.half-width img{
+    width: 100%;
+
+}
+.banner{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
+.button{
+    background-color: orange;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5%;
+    font-weight: 600;
+    color: white;
+}
+.button:hover{
+    background-color: greenyellow;
+}
+.sec{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
